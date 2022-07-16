@@ -2,4 +2,4 @@ This is drum machine previewer for FreecodeCamp.com's frontend library certifica
 
 https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-drum-machine
 
-Demo:
+Demo: https://terteixs.github.io/drum-machine/
